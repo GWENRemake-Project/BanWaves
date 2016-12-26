@@ -1,0 +1,5 @@
+main: eos.banwaves.free.BanWaves
+name: BanWaves
+version: 1.0-Stable
+description: BanWaves plugin developed by Eos @ spigot.org
+author: Eos
