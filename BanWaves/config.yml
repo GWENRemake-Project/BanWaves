@@ -1,0 +1,18 @@
+BanWaves:
+  StoredTime: 1500497131616
+  Time: 86400000
+  Message: '&aA ban wave has been executed {total} players have been banned'
+  BanWaveNoBans: '&aThere have been no bans within the last 24 hours'
+  EnableBanWave: true
+  EraseBansOnDisable: true
+  CommandOnBanWave:
+  - 'ba ban {player} gwen &4&lGwen: hacking or breaking rules'
+  - 'say &4&lGwen: &c&l{Player} &ahas been banned'
+  - 'say &4&lGwen: I am always watching'
+  TotalBans: 0
+  CommandsMessages:
+    BanWaveAddCommand: '&a{name} &chas been added to the ban wave. They will be banned in the next wave.'
+    BanWaveExecuteCommand: '&aBanwave is starting.'
+    BanWaveRemoveCommand: '&a{name} has been removed from the ban wave.'
+    BanWaveOffCommand: '&4Banwave disabled. All players on the list will no longer be banned.'
+    BanWaveOnCommand: '&aGwenWave enabled.'
